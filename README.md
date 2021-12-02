@@ -1,1 +1,1 @@
-# android_device_xiaomi_angelican-pbrp-android-10.0
+# android_device_xiaomi_angelican-shrp-android-10.0
